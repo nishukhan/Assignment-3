@@ -1,5 +1,5 @@
 # Assignment-3
-Nishat Tasnim khan
+# Nishat Tasnim khan
 
 Longest common subsquence (LCS) 
 
